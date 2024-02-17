@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as a}from"./chunks/framework.vYGWlgti.js";const l=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"use/index.md","filePath":"use/index.md","lastUpdated":null}'),n={name:"use/index.md"};function s(r,o,d,c,i,p){return a(),t("div")}const m=e(n,[["render",s]]);export{l as __pageData,m as default};
